@@ -1,5 +1,5 @@
 <GoogleCustomizations>
-    <CustomSearchEngine visible="false">
+    <CustomSearchEngine volunteers="false" visible="false">
        <Title>Test</Title>
        <Description>Blah blah</Description>
        <Context>
