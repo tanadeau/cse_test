@@ -1,0 +1,330 @@
+<GoogleCustomizations>
+    <CustomSearchEngine visible="false">
+       <Title>Test</Title>
+       <Description>Blah blah</Description>
+       <Context>
+           <BackgroundLabels>
+               <Label name="_cse_include" mode="FILTER"/>
+               <Label name="_cse_exclude" mode="ELIMINATE"/>
+           </BackgroundLabels>
+       </Context>
+       <LookAndFeel nonprofit="false"/>
+    </CustomSearchEngine>
+    <Annotations>
+        <Annotation about="www.who.int/*">
+            <Label name="_cse_include"/>
+        </Annotation>
+        <Annotation about="pvo.usaid.gov/*">
+            <Label name="_cse_include"/>
+        </Annotation>
+        <Annotation about="vam.wfp.org/*">
+            <Label name="_cse_include"/>
+        </Annotation>
+        <Annotation about="www.vectormap.org/*">
+            <Label name="_cse_include"/>
+        </Annotation>
+        <Annotation about="webwiser.nlm.nih.gov/*">
+            <Label name="_cse_include"/>
+        </Annotation>
+        <Annotation about="gamapserver.who.int/*">
+            <Label name="_cse_include"/>
+        </Annotation>
+        <Annotation about="search.ebscohost.com/*">
+            <Label name="_cse_include"/>
+        </Annotation>
+        <Annotation about="www.export.gov/*">
+            <Label name="_cse_include"/>
+        </Annotation>
+        <Annotation about="www.nier.go.kr/*">
+            <Label name="_cse_include"/>
+        </Annotation>
+        <Annotation about="www.cdc.go.kr/*">
+            <Label name="_cse_include"/>
+        </Annotation>
+        <Annotation about="wwwnc.cdc.gov/*">
+            <Label name="_cse_include"/>
+        </Annotation>
+        <Annotation about="www.imshealth.com/*">
+            <Label name="_cse_include"/>
+        </Annotation>
+        <Annotation about="www.chinacdc.cn/*">
+            <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="english.kwater.or.kr/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.mcis.osd.mil/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.kahis.go.kr/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="khap.org/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="mesl.apgea.army.mil/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="secwww.jhuapl.edu/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.bsvecosystem.net/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="reliefweb.int/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.webmd.com/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.daum.net/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.redcross.or.kr/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.ecdc.europa.eu/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.bbc.com/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="news.google.com/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="travel.state.gov/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.phmsa.dot.gov/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="healthmap.org/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="socialeyes.vbi.vt.edu/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="biosen.se/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.afhsc.mil/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.cs.amedd.army.mil/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.vaccines.mil/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="armypubs.us.army.mil/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="armypubs.army.mil/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.nhis.or.kr/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.ncmi.detrick.army.mil/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="twitter.com/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="jacks.jpeocbd.osd.mil/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.jhuapl.edu/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="chemm.nlm.nih.gov/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.start.umd.edu/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.icrc.org/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="essence.csd.disa.mil/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.pacom.mil/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="web.kma.go.kr/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.keco.or.kr/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="intellipedia.intelink.gov/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.google.org/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.naver.com/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.cdc.gov/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.nate.com/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="unep.org/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="data.worldbank.org/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="atlas.pdc.org/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="aqicn.org/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="usaphcapps.amedd.army.mil/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.med.navy.mil/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.usuhs.edu/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="emergency.cdc.gov/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.qia.go.kr/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="medlinet.amedd.army.mil/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="databank.worldbank.org/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="newsmap.jp/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.fao.org/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.toxinology.com/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="jdeis.js.mil/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.lungkorea.org/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="geo.acaps.org/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.wmddetectorselector.army.mil/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.oie.int/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.usamriid.army.mil/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.mfds.go.kr/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="mhs.health.mil/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.wfp.org/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.dhs.gov/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.promedmail.org/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="health.mil/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="en.nhfpc.gov.cn/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.kmis.or.kr/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.usamma.army.mil/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.afpmb.org/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="phc.amedd.army.mil/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="esango.un.org/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.kimsonline.co.kr/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.dtic.mil/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.cidrap.umn.edu/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="doctrine.af.mil/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.nih.go.kr/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.nhic.or.kr/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.jllis.mil/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.haiweb.org/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="sibeldemo.vbi.vt.edu/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.nhfpc.gov.cn/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.cia.gov/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.usariem.army.mil/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.facebook.com/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.kakao.com/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="www.msn.com/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="afhsc.army.mil/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="english.mw.go.kr/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="dtic.mil/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    <Annotation about="crptic.noblis.org/*">
+        <Label name="_cse_include"/>
+    </Annotation>
+    </Annotations>
+</GoogleCustomizations>
